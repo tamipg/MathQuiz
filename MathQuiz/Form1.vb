@@ -77,24 +77,31 @@
             ' Si el usuario respondió correctamente, detiene el temporizador.
             ' Y muestra un MessageBox.
             Timer1.Stop()
+            timeLabel.BackColor = Control.DefaultBackColor
             MessageBox.Show("¡Tienes todas las respuestas correctas!", "¡Felicidades!")
             startButton.Enabled = True
+            timeLabel.BackColor = Control.DefaultBackColor
+
         ElseIf timeLeft > 0 Then
             ' Disminuye el tiempo restante en un segundo y muestra
             ' el nuevo tiempo restante actualizando la etiqueta timeLeft.
             timeLeft = timeLeft - 1
             timeLabel.Text = timeLeft & " segundos"
+            If timeLeft <= 5 Then
+                timeLabel.BackColor = Color.Red
+            End If
         Else
             ' Si el usuario se quedó sin tiempo, detiene el temporizador, muestra
             ' un MessageBox y rellena las respuestas.
             Timer1.Stop()
-            timeLabel.Text = "¡Se acabó el tiempo!"
+            timeLabel.Text = "¡Sin tiempo!"
             MessageBox.Show("No terminaste a tiempo.", "Lo siento")
             suma.Value = addend1 + addend2
             diferencia.Value = minuend - subtrahend
             producto.Value = multiplicand * multiplier
             cociente.Value = dividend / divisor
             startButton.Enabled = True
+            timeLabel.BackColor = Control.DefaultBackColor
         End If
 
     End Sub
