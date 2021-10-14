@@ -75,7 +75,7 @@ Partial Class Form1
         'plusLeftLabel
         '
         Me.plusLeftLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.plusLeftLabel.Location = New System.Drawing.Point(75, 75)
+        Me.plusLeftLabel.Location = New System.Drawing.Point(74, 75)
         Me.plusLeftLabel.Name = "plusLeftLabel"
         Me.plusLeftLabel.Size = New System.Drawing.Size(60, 50)
         Me.plusLeftLabel.TabIndex = 2
@@ -85,7 +85,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(141, 75)
+        Me.Label2.Location = New System.Drawing.Point(140, 75)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(60, 50)
         Me.Label2.TabIndex = 3
@@ -95,7 +95,7 @@ Partial Class Form1
         'plusRightLabel
         '
         Me.plusRightLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.plusRightLabel.Location = New System.Drawing.Point(207, 75)
+        Me.plusRightLabel.Location = New System.Drawing.Point(206, 75)
         Me.plusRightLabel.Name = "plusRightLabel"
         Me.plusRightLabel.Size = New System.Drawing.Size(60, 50)
         Me.plusRightLabel.TabIndex = 4
@@ -105,7 +105,7 @@ Partial Class Form1
         'Label4
         '
         Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(273, 75)
+        Me.Label4.Location = New System.Drawing.Point(272, 75)
         Me.Label4.Name = "Label4"
         Me.Label4.Size = New System.Drawing.Size(60, 50)
         Me.Label4.TabIndex = 5
@@ -115,7 +115,7 @@ Partial Class Form1
         'suma
         '
         Me.suma.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.suma.Location = New System.Drawing.Point(339, 84)
+        Me.suma.Location = New System.Drawing.Point(338, 84)
         Me.suma.Name = "suma"
         Me.suma.Size = New System.Drawing.Size(100, 35)
         Me.suma.TabIndex = 2
@@ -123,7 +123,7 @@ Partial Class Form1
         'diferencia
         '
         Me.diferencia.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.diferencia.Location = New System.Drawing.Point(339, 142)
+        Me.diferencia.Location = New System.Drawing.Point(338, 142)
         Me.diferencia.Name = "diferencia"
         Me.diferencia.Size = New System.Drawing.Size(100, 35)
         Me.diferencia.TabIndex = 3
@@ -131,7 +131,7 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(273, 133)
+        Me.Label3.Location = New System.Drawing.Point(272, 133)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(60, 50)
         Me.Label3.TabIndex = 10
@@ -141,7 +141,7 @@ Partial Class Form1
         'minusRightLabel
         '
         Me.minusRightLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.minusRightLabel.Location = New System.Drawing.Point(207, 133)
+        Me.minusRightLabel.Location = New System.Drawing.Point(206, 133)
         Me.minusRightLabel.Name = "minusRightLabel"
         Me.minusRightLabel.Size = New System.Drawing.Size(60, 50)
         Me.minusRightLabel.TabIndex = 9
@@ -151,7 +151,7 @@ Partial Class Form1
         'Label6
         '
         Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(141, 133)
+        Me.Label6.Location = New System.Drawing.Point(140, 133)
         Me.Label6.Name = "Label6"
         Me.Label6.Size = New System.Drawing.Size(60, 50)
         Me.Label6.TabIndex = 8
@@ -161,7 +161,7 @@ Partial Class Form1
         'minusLeftLabel
         '
         Me.minusLeftLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.minusLeftLabel.Location = New System.Drawing.Point(75, 133)
+        Me.minusLeftLabel.Location = New System.Drawing.Point(74, 133)
         Me.minusLeftLabel.Name = "minusLeftLabel"
         Me.minusLeftLabel.Size = New System.Drawing.Size(60, 50)
         Me.minusLeftLabel.TabIndex = 7
@@ -171,7 +171,7 @@ Partial Class Form1
         'producto
         '
         Me.producto.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.producto.Location = New System.Drawing.Point(339, 201)
+        Me.producto.Location = New System.Drawing.Point(338, 201)
         Me.producto.Name = "producto"
         Me.producto.Size = New System.Drawing.Size(100, 35)
         Me.producto.TabIndex = 4
@@ -179,7 +179,7 @@ Partial Class Form1
         'Label5
         '
         Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(273, 192)
+        Me.Label5.Location = New System.Drawing.Point(272, 192)
         Me.Label5.Name = "Label5"
         Me.Label5.Size = New System.Drawing.Size(60, 50)
         Me.Label5.TabIndex = 15
@@ -189,7 +189,7 @@ Partial Class Form1
         'timesRightLabel
         '
         Me.timesRightLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.timesRightLabel.Location = New System.Drawing.Point(207, 192)
+        Me.timesRightLabel.Location = New System.Drawing.Point(206, 192)
         Me.timesRightLabel.Name = "timesRightLabel"
         Me.timesRightLabel.Size = New System.Drawing.Size(60, 50)
         Me.timesRightLabel.TabIndex = 14
@@ -199,7 +199,7 @@ Partial Class Form1
         'Label8
         '
         Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(141, 192)
+        Me.Label8.Location = New System.Drawing.Point(140, 192)
         Me.Label8.Name = "Label8"
         Me.Label8.Size = New System.Drawing.Size(60, 50)
         Me.Label8.TabIndex = 13
@@ -209,7 +209,7 @@ Partial Class Form1
         'timesLeftLabel
         '
         Me.timesLeftLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.timesLeftLabel.Location = New System.Drawing.Point(75, 192)
+        Me.timesLeftLabel.Location = New System.Drawing.Point(74, 192)
         Me.timesLeftLabel.Name = "timesLeftLabel"
         Me.timesLeftLabel.Size = New System.Drawing.Size(60, 50)
         Me.timesLeftLabel.TabIndex = 12
@@ -219,7 +219,7 @@ Partial Class Form1
         'cociente
         '
         Me.cociente.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.cociente.Location = New System.Drawing.Point(339, 258)
+        Me.cociente.Location = New System.Drawing.Point(338, 258)
         Me.cociente.Name = "cociente"
         Me.cociente.Size = New System.Drawing.Size(100, 35)
         Me.cociente.TabIndex = 5
@@ -227,7 +227,7 @@ Partial Class Form1
         'Label10
         '
         Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(273, 249)
+        Me.Label10.Location = New System.Drawing.Point(272, 249)
         Me.Label10.Name = "Label10"
         Me.Label10.Size = New System.Drawing.Size(60, 50)
         Me.Label10.TabIndex = 20
@@ -237,7 +237,7 @@ Partial Class Form1
         'dividedRightLabel
         '
         Me.dividedRightLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dividedRightLabel.Location = New System.Drawing.Point(207, 249)
+        Me.dividedRightLabel.Location = New System.Drawing.Point(206, 249)
         Me.dividedRightLabel.Name = "dividedRightLabel"
         Me.dividedRightLabel.Size = New System.Drawing.Size(60, 50)
         Me.dividedRightLabel.TabIndex = 19
@@ -247,7 +247,7 @@ Partial Class Form1
         'Label12
         '
         Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(141, 249)
+        Me.Label12.Location = New System.Drawing.Point(140, 249)
         Me.Label12.Name = "Label12"
         Me.Label12.Size = New System.Drawing.Size(60, 50)
         Me.Label12.TabIndex = 18
@@ -257,7 +257,7 @@ Partial Class Form1
         'dividedLeftLabel
         '
         Me.dividedLeftLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.dividedLeftLabel.Location = New System.Drawing.Point(75, 249)
+        Me.dividedLeftLabel.Location = New System.Drawing.Point(74, 249)
         Me.dividedLeftLabel.Name = "dividedLeftLabel"
         Me.dividedLeftLabel.Size = New System.Drawing.Size(60, 50)
         Me.dividedLeftLabel.TabIndex = 17
@@ -268,7 +268,7 @@ Partial Class Form1
         '
         Me.startButton.AutoSize = True
         Me.startButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 14.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.startButton.Location = New System.Drawing.Point(167, 315)
+        Me.startButton.Location = New System.Drawing.Point(179, 315)
         Me.startButton.Name = "startButton"
         Me.startButton.Size = New System.Drawing.Size(153, 34)
         Me.startButton.TabIndex = 1
